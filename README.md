@@ -1,2 +1,3 @@
 # test-repo
-Initial Commit Repository
+
+This is an Initial Commit Repository for the assignment.
